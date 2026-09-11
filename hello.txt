@@ -1,2 +1,3 @@
-hello
+bye
 this is a text file
+but you shouldnt see this file btw
