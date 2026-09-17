@@ -6,6 +6,5 @@ bzzzzzzzzzzzzzzzzzz
 aaaaaaaaaaaaaa
 from local
 from remote
-test conflictsss from feature/conflict
-
+test conflictsss from feature/conflict, ignore main
 
